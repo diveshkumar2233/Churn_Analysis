@@ -7,7 +7,11 @@ An end-to-end customer churn project that combines exploratory data analysis, a 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Churn Analysis Dashboard](https://github.com/diveshkumar2233/Churn_Analysis/blob/main/Churn_Analysis_Dashboard.png)
+🔗 **View Full Dashboard:**  
+[Churn Analysis Dashboard](https://github.com/diveshkumar2233/Churn_Analysis/blob/main/Churn_Analysis_Dashboard.png)
+
+[![Churn Analysis Dashboard](https://raw.githubusercontent.com/diveshkumar2233/Churn_Analysis/main/Churn_Analysis_Dashboard.png)](https://github.com/diveshkumar2233/Churn_Analysis/blob/main/Churn_Analysis_Dashboard.png)
+
 - [Prediction Engine (ChurnIQ)](#prediction-engine-churniq)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
