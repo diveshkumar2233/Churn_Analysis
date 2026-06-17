@@ -7,7 +7,7 @@ An end-to-end customer churn project that combines exploratory data analysis, a 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Dashboard](#dashboard)
+- [Churn Analysis Dashboard](https://github.com/diveshkumar2233/Churn_Analysis/blob/main/Churn_Analysis_Dashboard.png)
 - [Prediction Engine (ChurnIQ)](#prediction-engine-churniq)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
@@ -111,7 +111,7 @@ Update this section with the exact column names and any data dictionary notes sp
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/Customer_Churn_Analysis.git
+https://github.com/diveshkumar2233/Churn_Analysis
 cd Customer_Churn_Analysis
 
 # 2. Create and activate a virtual environment
