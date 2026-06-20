@@ -185,6 +185,6 @@ The model artifact(s) live in `models/`. Document here:
 - Expand the dashboard with cohort/retention curves over time
 - Add unit tests for the FastAPI endpoints
 
-## License
 
-Specify your license here (e.g. MIT, Apache 2.0) or remove this section if the repo is private/unlicensed.
+
+
